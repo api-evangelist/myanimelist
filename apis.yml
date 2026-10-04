@@ -39,7 +39,6 @@ apis:
   - name: MyAnimeList
     description: "Anime and Manga Database and Community"
     humanURL: https://myanimelist.net/clubs.php?cid=13727
-    baseURL: https://myanimelist.net/clubs.php?cid=13727
     tags:
       - Anime
     properties:
