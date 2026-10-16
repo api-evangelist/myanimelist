@@ -1,0 +1,21 @@
+{
+  "repo": "myanimelist",
+  "feeds": [
+    {
+      "source": "https://myanimelist.net/news",
+      "feed_url": "https://myanimelist.net/rss/news.xml",
+      "title": "",
+      "saved": 20,
+      "method": "discovered"
+    },
+    {
+      "source": "https://myanimelist.net/rss/news.xml",
+      "feed_url": "https://myanimelist.net/rss/news.xml",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    }
+  ],
+  "post_count": 20,
+  "fetched": "2026-10-10T13:15:00Z"
+}
